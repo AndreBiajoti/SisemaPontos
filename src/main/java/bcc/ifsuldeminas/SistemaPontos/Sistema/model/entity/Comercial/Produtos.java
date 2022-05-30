@@ -1,4 +1,4 @@
-package bcc.ifsuldeminas.SistemaPontos.Sistema.Comercial;
+package bcc.ifsuldeminas.SistemaPontos.Sistema.model.entity.Comercial;
 
 public class Produtos {
     private String nome;
